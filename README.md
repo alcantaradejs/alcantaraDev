@@ -1,9 +1,11 @@
-### Skills
 
+<!--# 😜Ola, seja bem-vindo ao meu perfil!
+
+### 💻 Skills
 • JavaScript
 • python
 • html/css
-• Designer
+• Designer -->
 
 <!--
 **BatatinhasFitas/BatatinhasFitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
