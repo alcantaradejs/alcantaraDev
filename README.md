@@ -1,13 +1,13 @@
 ## 💻 My skills 🧠
-### Designer
+### 🎨 Designer
 - UI
 
-### Front-end
+### 📐 Front-end
 - JavaScript
 - python
 - html/css
 
-### Back-end
+### 💻 Back-end
 - Node.js
 <!--
 **BatatinhasFitas/BatatinhasFitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
