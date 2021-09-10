@@ -15,6 +15,8 @@
   <img align="center" alt="Batata-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+Sou um estudante de desenvolvimento front-end pela plataforma da rocketseat
+  
 <div style="display: inline_block"><br>
   <h3>💻 Estudando 📚</h3>
   <img align="center" alt="Batata-Arduino"  height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/arduino/arduino-original.svg">
