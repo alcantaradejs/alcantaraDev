@@ -6,8 +6,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BatatinhasFitas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatatinhasFitas&layout=compact&langs_count=7&theme=onedark"/>
 
-### Sou um estudante de desenvolvimento front-end pela plataforma da rocketseat
-
 <div style="display: inline_block"><br>
   <h3>💻 My skills 🧠</h3>
   <img align="center" alt="Batata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
