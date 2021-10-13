@@ -1,6 +1,8 @@
 # Olá! Seja bem vido ao meu perfil 😉
 
-<!--### sobre mim-->
+### sobre mim
+
+Estudo programação front-end através da plataforma Discover da Rocketseat
 
 <!--<a href="https://github.com/BatatinhasFitas">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BatatinhasFitas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
