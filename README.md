@@ -2,7 +2,7 @@
 
 ### sobre mim
 
-Olá sou um desenvolvedor front-end javaScript e trabalho com aplicações React.
+Olá, resolvo seus problemas com javascript e criatividade.
 
 <a href="https://github.com/BatatinhasFitas">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BatatinhasFritas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
