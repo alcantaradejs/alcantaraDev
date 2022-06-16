@@ -5,7 +5,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatatinhasFritas&layout=compact&langs_count=7&theme=onedark"/>
 
 ## quem sou eu?
-Olá! Sou Isaque Alcântara um desenvolvedor apaixonado por criação de UIs simples e fáceis de usar porem sei trabalhar com back-end quando necessário.
+Olá! Sou Isaque Alcântara um desenvolvedor apaixonado por criação de UIs simples e fáceis de usar também trabalho com back-end quando necessário.
 
 ## 💻 My skills 🧠
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
