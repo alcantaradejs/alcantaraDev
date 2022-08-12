@@ -1,8 +1,8 @@
 # Olá! Seja bem vido ao meu perfil 😉
 
 <a href="https://github.com/BatatinhasFitas">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BatatinhasFritas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatatinhasFritas&layout=compact&langs_count=7&theme=onedark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaqueAlcantaraDev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueAlcantaraDev&layout=compact&langs_count=7&theme=onedark"/>
 
 ## quem sou eu?
 Sou Isaque Alcântara um desenvolvedor front-end apaixonado por criação de UIs simples e poderosas.
