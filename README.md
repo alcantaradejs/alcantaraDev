@@ -5,7 +5,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueAlcantaraDev&layout=compact&langs_count=7&theme=onedark"/>
 
 ## quem sou eu?
-Sou Isaque Alcântara um desenvolvedor front-end apaixonado por criação de UIs simples e poderosas.
+Sou Isaque Alcântara um Designer especialisado em UI/UX e desenvolvedor front-end.
 
 ## 💻 My skills 🧠
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
