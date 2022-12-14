@@ -6,8 +6,8 @@
   
 <br/>
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaqueAlcantaraDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueAlcantaraDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=alcantaraDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcantaraDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
 <div/>
 
 ### Main skills 💻
