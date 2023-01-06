@@ -4,11 +4,11 @@
 ⚛️ Front-end web with React.js / Next.js   
 🖌 UI/UX Designer  
   
-<!-- <br/>
+<br/>
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alcantaraDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcantaraDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
-<div/> -->
+<div/>
 
 ### Main skills 💻
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=#3178C6)&nbsp;
