@@ -2,6 +2,7 @@
 
 💻 JavaScript / TypeScript Developer  
 ⚛️ Front-end web with React.js / Next.js   
+⚛️ Back-end web with Next API / Node Express   
 🖌 UI/UX Designer  
   
 <!--<br/>
