@@ -1,8 +1,6 @@
 ### Hi, I'm Isaque 😉 
 
-💻 JavaScript / TypeScript Developer  
-⚛️ Front-end web with React.js / Next.js   
-⚛️ Back-end web with Next API / Node Express   
+💻 full-stack Developer  
 🖌 UI/UX Designer  
   
 <!--<br/>
